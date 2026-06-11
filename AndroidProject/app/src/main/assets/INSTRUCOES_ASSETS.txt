@@ -1,0 +1,2 @@
+Coloque os arquivos do jogo (como data.pak, sons, texturas originais do PC) nesta pasta.
+O código JNI injetado via AAssetManager fará a leitura automática destes arquivos em tempo de execução no Android, substituindo o disco rígido (C:\).
